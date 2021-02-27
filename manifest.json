@@ -1,0 +1,39 @@
+{
+    "id": "NBAstreams",
+    "version": "1.0.0",
+    "name": "NBAstreams",
+    "description": "Watch live nba matches! Streams will show up when matches begin.",
+    "types": [
+        "tv"
+    ],
+    "resources": [
+        "stream",
+        "catalog",
+        "meta"
+    ],
+    "catalogs": [
+        {
+            "id": "NBA",
+            "type": "tv",
+            "name": "NBA",
+            "extra": [
+                {
+                    "name": "search",
+                    "isRequired": false
+                },
+                {
+                    "name": "genre",
+                    "isRequired": false
+                },
+                {
+                    "name": "skip",
+                    "isRequired": false
+                }
+            ]
+        }
+    ],
+    "idPrefixes": [
+        "nba"
+    ],
+    "logo": "https://nbahoopsonline.com/Articles/2016-17/nbaaplogo.jpg"
+}

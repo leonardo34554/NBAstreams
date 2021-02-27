@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "type": "tv",
+        "genres": [
+            "Sports",
+            "Basketball"
+        ],
+        "poster": "https://images.prd.dlivecdn.com/live-thumbnail/5f8bd4ac-543f-11eb-aca3-b23d0cea717c",
+        "posterShape": "landscape",
+        "background": "https://wallpaperset.com/w/full/9/c/9/448370.jpg",
+        "logo": "https://assets.stickpng.com/images/58428defa6515b1e0ad75ab4.png",
+        "description": "NBA"
+    }
+}
